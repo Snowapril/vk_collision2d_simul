@@ -1,6 +1,10 @@
 # Vulkan Collision 2D Simulation
 
-[![CodeFactor](https://www.codefactor.io/repository/github/snowapril/vk_collision2d_simul/badge)](https://www.codefactor.io/repository/github/snowapril/vk_collision2d_simul)[![Codacy Badge](https://app.codacy.com/project/badge/Grade/755ac32c60cd4fdd80934f7de453838d)](https://www.codacy.com/gh/Snowapril/vk_collision2d_simul/dashboard?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=Snowapril/vk_collision2d_simul&amp;utm_campaign=Badge_Grade)
+[![CodeFactor](https://www.codefactor.io/repository/github/snowapril/vk_collision2d_simul/badge)](https://www.codefactor.io/repository/github/snowapril/vk_collision2d_simul)
+[![Codacy Badge](https://app.codacy.com/project/badge/Grade/755ac32c60cd4fdd80934f7de453838d)](https://www.codacy.com/gh/Snowapril/vk_collision2d_simul/dashboard?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=Snowapril/vk_collision2d_simul&amp;utm_campaign=Badge_Grade)
+![Ubuntu github action](https://github.com/Snowapril/vk_collision2d_simul/actions/workflows/ubuntu.yml/badge.svg?branch=main)
+![Window github action](https://github.com/Snowapril/vk_collision2d_simul/actions/workflows/window.yml/badge.svg?branch=main)
+![MacOS github action](https://github.com/Snowapril/vk_collision2d_simul/actions/workflows/macos.yml/badge.svg?branch=main)
 
 ## dependency
 *   glm
